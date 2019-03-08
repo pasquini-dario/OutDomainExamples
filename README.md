@@ -12,4 +12,4 @@ The inference behavior of a generative model can be influenced on test-time by a
 
 ![](./imgs/header.png)
 
-![ODE](/home/akanai/Desktop/GITHUB/imgs/ODE.gif)
+![ODE](./imgs/ODE.gif)
