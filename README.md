@@ -12,4 +12,5 @@ The inference behavior of a generative model can be influenced on test-time by a
 
 ![](./imgs/header.png)
 
-![ODE](./imgs/ODE.gif)
+<center> <img src ="./imgs/ODE.gif" /> </center>
+
