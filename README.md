@@ -16,10 +16,12 @@ Searching for out-domain examples *(ODE)* in the latent space of a [ProGAN](http
 
 ## Code:
 
-All the code is available in the package *./ODE*   [**tensorflow_1.8 ** is recommended]
+All the code is available in the package *./ODE*   [tensorflow_1.8  is recommended]
 
 #### Examples:
 
 Some examples are available in  *./Examples/\**
 
 * **DCGAN_SVHN"**  *ODE* generation process for a pre-trained *DCGAN* generator trained on *SVHN* (with *tensorboard* logging).
+* **other examples soon....**
+
