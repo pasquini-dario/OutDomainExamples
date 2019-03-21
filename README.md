@@ -23,5 +23,5 @@ All the code is available in the package *./ODE*   [tensorflow_1.8  is recommend
 Some examples are available in  *./Examples/\**
 
 * **DCGAN_SVHN"**  *ODE* generation process for a pre-trained *DCGAN* generator trained on *SVHN* (with *tensorboard* logging).
-* **other examples soon....**
+* **other examples will be available soon....**
 
