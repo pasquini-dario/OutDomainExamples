@@ -6,7 +6,7 @@ Proof of concept and *TensorFlow* code for the paper: [Out-domain examples for g
 
 ## Short abstract:
 
-The test-time behavior of a generative model can be influenced  by adversarial inputs.  An attacker can force a pre-trained generator to reproduce an arbitrary output if fed by a suitable latent representation. We call this output a **Out-Domain example**. 
+Test-time behavior of a generative model can be influenced by adversarial inputs.  An attacker can force a pre-trained generator to reproduce an arbitrary output if fed by a suitable latent representation. We call this output a **Out-Domain example**. 
 
 Searching for out-domain examples *(ODE)* in the latent space of a [ProGAN](https://tfhub.dev/google/progan-128/1) trained on **CelebA**:
 
