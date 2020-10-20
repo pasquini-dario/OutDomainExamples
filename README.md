@@ -25,7 +25,7 @@ Some examples are available in  *./Examples/\**
 * **DCGAN_SVHN"**  *ODE* generation process for a pre-trained *DCGAN* generator trained on *SVHN* (with *tensorboard* logging).
 
 ---
-How to cite our works:
+How to cite our work:
 > @INPROCEEDINGS{8802456,<br>
 author={D. {Pasquini} and M. {Mingione} and M. {Bernaschi}},<br>
 booktitle={2019 IEEE European Symposium on Security and Privacy Workshops (EuroS PW)},<br>
