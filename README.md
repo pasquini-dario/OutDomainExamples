@@ -23,5 +23,13 @@ All the code is available in the package *./ODE*   [tensorflow_1.8  is recommend
 Some examples are available in  *./Examples/\**
 
 * **DCGAN_SVHN"**  *ODE* generation process for a pre-trained *DCGAN* generator trained on *SVHN* (with *tensorboard* logging).
-* **other examples will be available soon....**
 
+---
+How to cite our works:
+> @INPROCEEDINGS{8802456,<br>
+author={D. {Pasquini} and M. {Mingione} and M. {Bernaschi}},<br>
+booktitle={2019 IEEE European Symposium on Security and Privacy Workshops (EuroS PW)},<br>
+title={Adversarial Out-domain Examples for Generative Models}, <br>
+year={2019},  <br>
+pages={272-280},<br>
+}
