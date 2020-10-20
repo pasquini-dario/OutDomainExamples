@@ -1,6 +1,6 @@
-# Out-Domain Examples
+# Adversarial Out-domain Examples for Generative Models
 
-Proof of concept and *TensorFlow* code for the paper: [Out-domain examples for generative models](https://arxiv.org/abs/1903.02926).
+Proof of concept and *TensorFlow* code for the paper: [Adversarial Out-domain Examples for Generative Models](https://arxiv.org/abs/1903.02926).
 
 ![](./imgs/header.png)
 
