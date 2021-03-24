@@ -26,10 +26,12 @@ Some examples are available in  *./Examples/\**
 
 ---
 How to cite our work:
-> @INPROCEEDINGS{8802456,<br>
-author={D. {Pasquini} and M. {Mingione} and M. {Bernaschi}},<br>
-booktitle={2019 IEEE European Symposium on Security and Privacy Workshops (EuroS PW)},<br>
-title={Adversarial Out-domain Examples for Generative Models}, <br>
-year={2019},  <br>
-pages={272-280},<br>
+```
+@INPROCEEDINGS{8802456,
+	author={D. {Pasquini} and M. {Mingione} and M. {Bernaschi}},
+	booktitle={2019 IEEE European Symposium on Security and Privacy Workshops (EuroS PW)},
+	title={Adversarial Out-domain Examples for Generative Models},
+	year={2019},
+	pages={272-280},
 }
+```
